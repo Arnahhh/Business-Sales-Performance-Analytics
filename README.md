@@ -3,16 +3,17 @@
 ## Author 
 Arna Adhikari 
 
-## Objective
-Analyzing the sales data to identify revenue trends, top products, and profitable regions.
+## Overview
 
-## Tools
-- Python
-- Pandas
-- Matplotlib 
+• The analysts will study the sales data to find revenue patterns and identify the best-selling products and the most profitable market territories.
 
-## Key Insights
-- Total sales: $2.29M
-- West region highest revenue
-- Technology most profitable
-- Sales peak in Q4 
+## Tools & Technologies Used
+
+• The Python programming language together with its Pandas library and Matplotlib library serve as the essential tools for this work.
+
+## Key Findings
+
+• The total sales amount to 2.29 million dollars at this point in time.
+• The West region has generated the highest sales revenue among all regions.
+• The Technology sector provides the highest level of profitability for businesses.
+• The sales volume reaches its highest point during the fourth quarter of the year.
